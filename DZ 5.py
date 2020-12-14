@@ -2,6 +2,6 @@
 """
 Created on Mon Dec 14 20:08:24 2020
 
-@author: User
+@author: Александр Терещук
 """
 
